@@ -1,1 +1,1 @@
-# ArcoLinux-config for jwm
+# ArcoLinux-config
